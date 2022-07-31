@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659287119 source:c:\users\user\desktop\cpp\meanvariancestandarddeviation\main.cpp
+	<iostream>
+	<cmath>
+
